@@ -5,16 +5,20 @@
     "lib"
   ],
   "dependencies": {
+    "@storybook/addon-actions": "^3.2.13",
+    "@storybook/addon-links": "^3.2.13",
     "@storybook/addons": "^3.2.13",
     "@storybook/channel-postmessage": "^3.2.13",
     "@storybook/ui": "^3.2.13",
-    "babel-runtime": "^6.26.0",
     "common-tags": "^1.4.0",
-    "global": "^4.3.2",
     "prop-types": "^15.6.0",
     "qs": "^6.5.1",
     "react": "^16.0.0",
-    "redux": "^3.7.2"
+    "react-dom": "^16.0.0",
+    "react-modal": "^2.4.1",
+    "redux": "^3.7.2",
+    "util-deprecate": "^1.0.2",
+    "uuid": "^3.1.0"
   },
   "version": "3.2.13"
 }
