@@ -11,6 +11,7 @@
     "@storybook/channel-postmessage": "^3.2.13",
     "@storybook/ui": "^3.2.13",
     "common-tags": "^1.4.0",
+    "core-js": "^2.5.1",
     "prop-types": "^15.6.0",
     "qs": "^6.5.1",
     "react": "^16.0.0",
@@ -18,7 +19,7 @@
     "react-modal": "^2.4.1",
     "redux": "^3.7.2",
     "util-deprecate": "^1.0.2",
-    "uuid": "^3.1.0"
+    "vue-hot-reload-api": "^2.1.1"
   },
   "version": "3.2.14"
 }
