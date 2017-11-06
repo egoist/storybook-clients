@@ -1,7 +1,7 @@
 
 # storybook-clients
 
-The client part of `@storybook/react` `@storybook/vue`
+The client part of `@storybook/react` `@storybook/vue`, used by [poi-preset-storybook](https://github.com/egoist/poi/tree/master/packages/poi-preset-storybook) but it's bundler agnostic.
 
 ## Contributing
 
