@@ -15,7 +15,6 @@ const Pkg = require('update-pkg')
       name.startsWith('babel-') ||
       name.includes('webpack') ||
       name.endsWith('-loader') ||
-      name.startsWith('lodash.') ||
       name.startsWith('postcss-')
     ) return false
 
